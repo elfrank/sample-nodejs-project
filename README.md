@@ -80,3 +80,4 @@ git cz
 ```bash
 GITHUB_TOKEN=your_token npx semantic-release --dry-run
 ```
+
